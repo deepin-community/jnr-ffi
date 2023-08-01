@@ -1,1 +1,3 @@
 no-ARM64.patch
+add-loong64-support.patch
+add-riscv64-support.patch
